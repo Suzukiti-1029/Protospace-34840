@@ -25,7 +25,7 @@
 | concept    | text       | NOT NULL          |
 | user       | references | foreign_key: true |
 
-**※ imageカラムはActiveStorageで実装**
+**※ imageカラムはActiveStorageで実装**
 
 ### Association
 
